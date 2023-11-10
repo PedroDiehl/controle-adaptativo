@@ -1,4 +1,5 @@
 %{
+Pedro Henrique Diehl
 Controle Adaptativo
 Model Reference Control
 %}
